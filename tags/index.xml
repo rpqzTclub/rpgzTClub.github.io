@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on 量子科技社</title>
+        <link>https://RPQZTechnologyClub.github.io/tags/</link>
+        <description>Recent content in Tags on 量子科技社</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>疏间徒泍</copyright>
+        <lastBuildDate>Sat, 04 Oct 2025 05:29:41 +0000</lastBuildDate><atom:link href="https://RPQZTechnologyClub.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AI</title>
+        <link>https://RPQZTechnologyClub.github.io/tags/ai/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://RPQZTechnologyClub.github.io/tags/ai/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>深度学习</title>
+        <link>https://RPQZTechnologyClub.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://RPQZTechnologyClub.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>数学</title>
+        <link>https://RPQZTechnologyClub.github.io/tags/%E6%95%B0%E5%AD%A6/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://RPQZTechnologyClub.github.io/tags/%E6%95%B0%E5%AD%A6/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>线性代数</title>
+        <link>https://RPQZTechnologyClub.github.io/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://RPQZTechnologyClub.github.io/tags/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
